@@ -10,9 +10,15 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
-```python
+<img width="480" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</div>
+
+<!--
+🐍 About Me (kept here for future reference, not rendered on the page)
+
 class SurendaranathKanniyappan:
     def __init__(self):
         self.name = "Surendaranath Kanniyappan"
@@ -37,9 +43,8 @@ class SurendaranathKanniyappan:
 
 me = SurendaranathKanniyappan()
 print(me.motto())
-```
+-->
 
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
@@ -112,7 +117,6 @@ print(me.motto())
 <img src="https://streak-stats.demolab.com?user=SK-Leonidas&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Leonidas&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
 
 </div>
 
