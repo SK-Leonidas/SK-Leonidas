@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surendaranath%20Kanniyappan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20%7C%20GenAI%20%7C%20Responsible%20AI&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surendaranath%20Kanniyappan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Multi-Agent%20Systems%20%7C%20MLOps&descAlignY=62&descSize=16)
 
 <a href="mailto:surendaranath.kanniyappan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/surendaranath-kanniyappan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/London%2C%20UK-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%40+Building+Intelligent+Systems;MSc+AI+%26+ML+%40+Queen+Mary+University+of+London;GenAI+%7C+NLP+%7C+Responsible+AI+Enthusiast;Turning+Data+into+Real-World+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%40+Building+GenAI+Prototypes+on+GCP;MSc+AI+%26+ML+(Distinction)+%40+Queen+Mary+University+of+London;Multi-Agent+Systems+%7C+RAG+%7C+Agent+Development+Kit;2%2B+Years+Production+Engineering+%40+Scale)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,19 +23,20 @@ class SurendaranathKanniyappan:
     def __init__(self):
         self.name = "Surendaranath Kanniyappan"
         self.location = "London, United Kingdom"
-        self.degree = "MSc AI & Machine Learning (Distinction), Queen Mary University of London"
+        self.degree = "MSc AI & Machine Learning in Science (Distinction), Queen Mary University of London"
         self.role = "AI Engineer"
 
         self.stack = {
+            "genai_gcp": ["Gemini API", "Vertex AI Search", "Agent Development Kit (ADK)", "A2A Protocol", "Cloud Storage", "IAM"],
             "languages": ["Java", "Python", "SQL", "C", "Bash", "HTML", "CSS"],
-            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "NLP", "LLMs", "RAG", "Transformers"],
-            "cloud_devops": ["Azure", "GCP", "Docker", "Kubernetes", "Linux", "Git", "GitHub Actions", "CI/CD"],
-            "backend_data": ["Spring Boot", "Microservices", "MongoDB", "REST APIs", "Data Pipelines"]
+            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "LangGraph", "AutoGluon", "NLP", "Transformers", "RAG", "Vector DBs"],
+            "cloud_devops": ["GCP", "Azure", "Docker", "Kubernetes", "Linux", "Git", "GitHub Actions", "CI/CD"],
+            "backend_data": ["Spring Boot", "Microservices", "MongoDB", "REST APIs", "Data Pipelines", "System Design", "Distributed Systems"]
         }
 
         self.core_competencies = ["OOP", "Data Structures & Algorithms", "System Design", "Distributed Systems", "SDLC"]
-        self.currently_learning = ["LLM Agents", "Advanced RAG Pipelines", "MLOps"]
-        self.fun_fact = "Built an ML classifier for neutron star merger remnants — 99.8% validation accuracy"
+        self.currently_exploring = ["Agent-to-Agent (A2A) orchestration", "Advanced RAG evaluation", "MLOps for GenAI"]
+        self.fun_fact = "Built an ML classifier for neutron star merger remnants — 98% validation accuracy"
 
     def motto(self):
         return "Turning curiosity into code, and complex problems into simpler ones."
@@ -45,8 +46,23 @@ me = SurendaranathKanniyappan()
 print(me.motto())
 -->
 
+## 👋 About Me
+
+AI Engineer with an **MSc (Distinction) in Artificial Intelligence and Machine Learning in Science** from Queen Mary University of London, and **2 years of production engineering experience** building and operating Java Spring Boot/MongoDB microservices on a multinational retail platform processing up to **100,000 daily transactions**. I build, debug and demonstrate GenAI prototypes on **Google Cloud**, spanning RAG pipelines and multi-agent systems with **Gemini, the Agent Development Kit, and Vertex AI Search**. I've also acted as the technical point of contact for client stakeholders, translating architecture decisions and root-cause findings into clear, non-technical updates.
 
 ## 🛠️ Tech Stack
+
+### ☁️ Google Cloud & GenAI
+<p align="left">
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex%20AI%20Search-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Agent%20Development%20Kit-34A853?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/A2A%20Protocol-EA4335?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector%20Databases-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square" />
+</p>
 
 ### 💻 Languages
 <p align="left">
@@ -64,14 +80,15 @@ print(me.motto())
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoGluon-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -79,9 +96,12 @@ print(me.motto())
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Backend & Data
 <p align="left">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-4479A1?style=flat-square" />
 </p>
 
 ### 🔧 Developer Tools
@@ -91,7 +111,6 @@ print(me.motto())
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" />
 <img src="https://img.shields.io/badge/Semgrep-1B1E29?style=flat-square&logo=semgrep&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ### 🧩 Core Competencies
@@ -122,27 +141,34 @@ print(me.motto())
 
 ## 💼 Work Experience
 
-<details>
-<summary>🏢 <strong>Tata Consultancy Services</strong> — Systems Engineer | Jul 2022 – May 2024 | Client: UK-based Multinational Retailer</summary>
+<details open>
+<summary>🤖 <strong>Independent AI Engineering</strong> — GenAI Prototyping & Agentic Systems | Sep 2025 – Present | London, UK</summary>
 <br>
 
-> `Spring Boot` `Microservices` `MongoDB` `REST APIs` `CI/CD` `GitHub Actions` `New Relic` `Semgrep` `BMC Remedy`
+> `Gemini API` `Vertex AI Search` `Agent Development Kit` `A2A Protocol` `LangGraph` `Google Cloud`
 
-- Delivered and maintained CI/CD pipelines for multiple Spring Boot microservices, enabling **50+ production deployments/year** with automated testing and low-risk release cycles.
-- Reduced average system downtime by **20%** by implementing service monitoring with New Relic and coordinating incident response/RCA via BMC Remedy.
-- Designed backend infrastructure enabling **15–20 new retail store launches** across multiple regions.
-- Integrated Semgrep static code analysis into CI pipelines, improving security coverage by **40%**.
+- Built and demonstrated production-style GenAI prototypes on Google Cloud, including a multi-agent retail operations assistant with a front end letting non-technical audiences follow agent routing live.
+- Migrated an agentic codebase across a breaking major version of the Google GenAI SDK, diagnosing removed client APIs, changed async contracts, and Vertex AI Search misconfiguration to restore the demo.
+- Wrote architecture notes, environment configuration guides and setup instructions for every repository, enabling another developer to clone, configure and run the full demo end to end without assistance.
+- Configured and operated Google Cloud projects end to end, covering IAM and service accounts, API enablement, quota management, Cloud Storage staging and Vertex AI Search data store schemas.
 
 </details>
 
 <details>
-<summary>✈️ <strong>YouCan Visas</strong> — Intern | Oct 2019 – Dec 2019</summary>
+<summary>🏢 <strong>Tata Consultancy Services</strong> — Systems Engineer | Jul 2022 – May 2024 | Client: UK-based Multinational Retailer</summary>
 <br>
 
-> `Figma` `Documentation` `Client Coordination`
+> `Spring Boot` `Microservices` `MongoDB` `REST APIs` `Kubernetes` `CI/CD` `GitHub Actions` `New Relic` `Semgrep` `BMC Remedy`
 
-- Coordinated international visa processing and documentation workflows for multi-region clients.
-- Designed website mockups for tourism visa pages using Figma to improve user experience.
+- Acted as technical point of contact for client stakeholders, running technical walkthroughs of system changes and root-cause findings for non-technical business teams and influencing prioritisation of backend platform changes.
+- Built and maintained integrations with Royal Mail, DPD, and EVRi APIs, diagnosing and resolving cross-system integration failures to support reliable, high-volume order processing.
+- Owned end-to-end resolution of the DropShip order processing workflow, maintaining a **sub-1% transaction error rate** across high-volume orders fulfilled through external and partner suppliers.
+- Enabled multi-region retail expansion, delivering successful backend go-live for **15–20 new store launches**.
+- Improved backend scalability and reliability across containerised Java Spring Boot microservices on Kubernetes, achieving **sub-300ms average API response time**, **sub-100ms database query latency**, and a **sub-1% error rate** by redesigning MongoDB data models and REST API architecture.
+- Designed, implemented, and maintained CI/CD pipelines supporting **50+ production releases annually**, strengthening security posture with a **40% increase** in automated coverage through Semgrep static analysis.
+- Improved platform reliability with a **20% reduction** in average system downtime by implementing proactive New Relic monitoring and driving root-cause resolution through BMC Remedy.
+- Maintained **zero certificate-related production outages** by owning end-to-end SSL/TLS certificate lifecycle management across 3–4 applications over two annual cycles.
+- Reviewed pull requests for 5–6 engineers across 2–3 teams, contributing to architecture discussions, peer code review, and Agile ceremonies as part of a 6–7 person engineering team.
 
 </details>
 
@@ -152,9 +178,12 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Binary Neutron Star Merger Classifier](https://github.com/SK-Leonidas/gravitational-wave-classifier) | Python, GBDT, SHAP | **99.8% validation accuracy** classifying post-merger remnants using GWOSC data; SHAP-based explainability and uncertainty quantification |
-| [Speech Emotion Recognition System](https://github.com/SK-Leonidas/Emotion-Detection-Using-Speech-EDNUS) | Python, Sparse Autoencoders, MLP | Deep learning-based emotion classification from audio signals; **published at ICCIS 2021 (Springer LNNS)** |
-| [AI Music Therapy Recommender](https://github.com/SK-Leonidas/Artificial-Intelligence-Based-Music-Therapy) | Python, NLP, AutoGluon | Personalized music therapy recommendations based on emotional & cognitive state using NLP + AutoML |
+| [RetailOps A2A Assistant](https://github.com/SK-Leonidas) | Gemini, ADK, LangGraph, Vertex AI Search, Mesop | Multi-agent retail assistant using the Agent-to-Agent (A2A) protocol; a Gemini host agent routes queries to specialised inventory and customer service agents; retrieval over a Cloud Storage-staged catalogue |
+| [KnowledgeHub RAG](https://github.com/SK-Leonidas) | FAISS, BM25, Sentence Transformers, TinyLlama | Hybrid retrieval (semantic + keyword) RAG QA system over multi-document PDF collections with document and page-level source attribution |
+| [Binary Neutron Star Merger Classifier](https://github.com/SK-Leonidas/gravitational-wave-classifier) | Python, GBDT, SHAP | **98% validation accuracy** classifying post-merger remnants using GWOSC data; SHAP-based explainability and uncertainty quantification |
+| [AI Based Music Therapy](https://github.com/SK-Leonidas/Artificial-Intelligence-Based-Music-Therapy) | Python, NLP, AutoGluon | Personalised music therapy recommendations based on user emotional and cognitive states |
+| [Globalingo](https://github.com/SK-Leonidas) | Google Cloud Translation API | Real-time multilingual translation application enabling AI-powered cross-language communication |
+| [Speech Emotion Recognition (EDNUS)](https://github.com/SK-Leonidas/Emotion-Detection-Using-Speech-EDNUS) | Python, Sparse Autoencoders, MLP | Deep learning-based emotion classification from audio signals; **published at ICCIS 2021 (Springer LNNS)** |
 
 </div>
 
@@ -165,12 +194,11 @@ print(me.motto())
 | | Achievement | Details |
 |---|---|---|
 | 🏆 | TNSCST Seed Funding | Awarded seed funding for AI project **E.D.N.U.S** — Emotion Detection for Individuals with Neurological Disorders Using Speech |
-| 🥇 | Smart Dustbin — Innovision 2020 | 1st Prize for IoT-based Smart Dustbin system |
-| 🥈 | Smart Dustbin — i-Quest 2020 | 2nd Prize for IoT-based Smart Dustbin system |
-| 💰 | Embedded Design Contest 2021 | Cash award for Scientific Calculator built using Arduino |
+| 🥇 | Innovision 2020 & i-Quest 2020 | 1st and 2nd prizes at these hackathons |
+| 💰 | Embedded Design Contest 2021 | Cash award |
 | 📄 | Published Research | Presented papers at EDGE 2020 & ICCIS 2021 (Springer, Scopus-indexed) |
-| 🎓 | Academic Excellence | Distinction in MSc AI & ML (QMUL) and B.E. ECE (Rajalakshmi Engineering College) |
-| 💯 | Class X Boards | Ranked among school toppers with a perfect 10 CGPA |
+| 🎓 | Academic Excellence | Distinction in MSc AI & ML in Science (QMUL) and B.E. ECE (Rajalakshmi Engineering College) |
+| 🤝 | Volunteering | College Literary Club & Entrepreneurship Cell — coordinated events and student engagement across cross-functional teams |
 
 </div>
 
@@ -180,16 +208,22 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| MSc Artificial Intelligence & Machine Learning in Science | Queen Mary University of London | 2024 – 2025 | Distinction |
-| B.E. Electronics & Communication Engineering | Rajalakshmi Engineering College, Chennai | 2018 – 2022 | Distinction |
+| MSc Artificial Intelligence & Machine Learning in Science | Queen Mary University of London | Sep 2024 – Sep 2025 | Distinction |
+| B.E. Electronics & Communication Engineering | Rajalakshmi Engineering College, Chennai | Aug 2018 – Jun 2022 | Distinction |
 
 </div>
 
-### 📚 Currently Learning
+## 📜 Certifications
+
+- Microsoft AZ-900: Azure Fundamentals
+- Ethical AI: AI Essentials for Everyone — Coursera
+- Data Science with Python — FIIT, Chennai
+
+### 📚 Currently Exploring
 ```
-🤖 LLM Agents      → Multi-agent orchestration, tool use
-🔍 Advanced RAG    → Hybrid search, re-ranking, evaluation
-☁️  MLOps           → Model deployment, monitoring, CI/CD for ML
+🤖 Multi-Agent Orchestration → A2A protocol, host/sub-agent routing
+🔍 Advanced RAG              → Hybrid search, re-ranking, evaluation
+☁️  MLOps                     → Model deployment, monitoring, CI/CD for ML
 ```
 
 <div align="center">
@@ -197,6 +231,5 @@ print(me.motto())
 <img src="https://komarev.com/ghpvc/?username=SK-Leonidas&style=flat-square&color=70A5FD" alt="Profile Views"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
 
 </div>
