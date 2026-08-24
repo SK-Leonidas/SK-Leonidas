@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/surendaranath-kanniyappan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/London%2C%20UK-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%40+Building+GenAI+Prototypes+on+GCP;MSc+AI+%26+ML+(Distinction)+%40+Queen+Mary+University+of+London;Multi-Agent+Systems+%7C+RAG+%7C+Agent+Development+Kit;2%2B+Years+Production+Engineering+%40+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AI+Engineer+%40+Building+GenAI+Prototypes+on+GCP;MSc+AI+%26+ML+(Distinction)%2C+Queen+Mary+University;Multi-Agent+Systems+%7C+RAG+%7C+Agent+Dev+Kit;2%2B+Years+Production+Engineering+%40+Scale)](https://git.io/typing-svg)
 
 </div>
 
