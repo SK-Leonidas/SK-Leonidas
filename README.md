@@ -221,7 +221,7 @@ AI Engineer with an **MSc (Distinction) in Artificial Intelligence and Machine L
 
 ### 📚 Currently Exploring
 ```
-🤖 Multi-Agent Orchestration → A2A protocol, host/sub-agent routing
+🤖 Multi Agent Orchestration → A2A protocol, host/sub-agent routing
 🔍 Advanced RAG              → Hybrid search, re-ranking, evaluation
 ☁️  MLOps                     → Model deployment, monitoring, CI/CD for ML
 ```
